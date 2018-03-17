@@ -29,7 +29,7 @@ Groundwater Modeling software: FloPy, MODFLOW-2000/2005/NWT
 
 ### Disclaimer
 
-While the workflows have been developed for USGS NM-WSC, and I have received input and feedback from USGS hydrologists, the workflows have been developed independently by me, and have not been approved for publication by USGS. Any errors are entirely my responsibility.
+While the workflows have been developed for USGS NM-WSC, and I have received input and feedback from USGS hydrologists, the workflows have been developed independently by me, and have not been approved for publication by USGS. Any errors are entirely my responsibility. I'm still in the process of completing the workflows.
 
 
 ### Contact
