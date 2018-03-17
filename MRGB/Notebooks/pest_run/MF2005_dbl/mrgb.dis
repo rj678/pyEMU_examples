@@ -1,0 +1,67 @@
+# Discretization file
+         9       156        80        52         4         1 #NLAY,NROW,NCOL,NPER,ITMUNI,LENUNI
+ 0 0 0 0 0 0 0 0 0                                  LAYCBC(NLAY)
+CONSTANT 3280.84                                    DELR(NCOL)
+CONSTANT 3280.84                                    DELC(NROW)
+OPEN/CLOSE arrays/TOP1.arr  1. (8f10.1)  3  TOP1.arr is Top --  H1 + 1000 ft
+OPEN/CLOSE arrays/BOT1.arr  1. (10f8.1) -1          #BOTM
+OPEN/CLOSE arrays/BOT2.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT3.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT4.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT5.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT6.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT7.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT8.arr  1. (10f8.1) -1
+OPEN/CLOSE arrays/BOT9.arr  1. (10f8.1) -1
+      0.01         1        1.        SS      Total of 52 stress periods, including steady state
+   1826.25         8       1.5        TR      1900-04
+   1826.25         8       1.5        TR      1905-09
+   1826.25         8       1.5        TR      1910-14
+   1826.25         8       1.5        TR      1915-19   stress period 5
+   1826.25         8       1.5        TR      1920-24
+   1826.25         8       1.5        TR      1925-29
+   1826.25         8       1.5        TR      1930-34
+   1826.25         8       1.5        TR      1935-39
+   1826.25         8       1.5        TR      1940-44   stress period 10
+   1826.25         8       1.5        TR      1945-49
+   1826.25         8       1.5        TR      1950-54
+   1826.25         8       1.5        TR      1955-59
+   1826.25         8       1.5        TR      1960-64
+   1826.25         8       1.5        TR      1965-69   stress period 15
+   1826.25         8       1.5        TR      1970-74
+    365.25         6       1.5        TR      1975
+    365.25         6       1.5        TR      1976           
+    365.25         6       1.5        TR      1977	      
+    365.25         6       1.5        TR      1978      stress period 20   
+    365.25         6       1.5        TR      1979	      
+    365.25         6       1.5        TR      1980            
+    365.25         6       1.5        TR      1981	      
+    365.25         6       1.5        TR      1982	      
+    365.25         6       1.5        TR      1983	stress period 25      
+    365.25         6       1.5        TR      1984            
+    365.25         6       1.5        TR      1985	      
+    365.25         6       1.5        TR      1986	      
+    365.25         6       1.5        TR      1987	      
+    365.25         6       1.5        TR      1988      stress period 30          
+    365.25         6       1.5        TR      1989                           
+     74.25         3       1.5        TR      01/90-03/15/90                 
+    230.00         5       1.5        TR      03/15/90-10/90                 
+    135.25         4       1.5        TR      11/90-03/15/91                 
+    230.00         5       1.5        TR      03/15/91-10/91    stress period 35
+    135.25         4       1.5        TR      11/91-03/15/92                 
+    230.00         5       1.5        TR      03/15/92-10/92                 
+    135.25         4       1.5        TR      11/92-03/15/93                 
+    230.00         5       1.5        TR      03/15/93-10/93                 
+    135.25         4       1.5        TR      11/93-03/15/94    stress period 40
+    230.00         5       1.5        TR      03/15/94-10/94                 
+    135.25         4       1.5        TR      11/94-03/15/95                 
+    230.00         5       1.5        TR      03/15/95-10/95                 
+    135.25         4       1.5        TR      11/95-03/15/96                 
+    230.00         5       1.5        TR      03/15/96-10/96    stress period 45
+    135.25         4       1.5        TR      11/96-03/15/97
+    230.00         5       1.5        TR      03/15/97-10/97
+    135.25         4       1.5        TR      11/97-03/15/98
+    230.00         5       1.5        TR      03/15/98-10/98
+    135.25         4       1.5        TR      11/98-03/15/99    stress period 50
+    230.00         5       1.5        TR      03/15/99-10/99
+    135.25         4       1.5        TR      11/99-03/15/00    stress period 52

@@ -1,0 +1,25 @@
+# Parameter file for parent
+23
+HANIyes       2.0000000E+00
+HANIno        1.0000000E+00
+HANItrf       5.0000000E+00
+VANI1         1.5000000E+02
+VANI2         1.5000000E+02
+VANI3         1.5000000E+02
+VANI4         1.5000000E+02
+SSall         2.0000000E-06
+Syall         2.0000000E-01
+Knw           5.0000000E-01
+Ksdfm         5.0000000E-02
+Kintr         1.0000000E+00
+Kvolc         8.0000000E+00
+Ksdmcwest     8.0000000E+00
+Ksdm          1.5000000E+00
+Ksdmc         8.0000000E+00
+Kalluv        4.5000000E+01
+Kaxial1       3.0000000E+01
+Kaxial2       1.5000000E+01
+Ksdeo         8.0000000E+00
+Ksilts        2.0000000E+00
+Kcgsv         5.0000000E-01
+Kpdmt         5.0000000E-01

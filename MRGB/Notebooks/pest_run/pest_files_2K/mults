@@ -1,0 +1,54 @@
+# Multiplier File for MF2000
+  26                   NML
+RCHmtM                     #Mult array for mt_front recharge
+OPEN/CLOSE arrays/MTRCH.arm 1.0 (8f10.7) -1
+RCHtribM                   #Mult array for tributary recharge
+OPEN/CLOSE arrays/TRIBRCH.arm 1.0 (8f10.7) -1
+RCHcnlp35M                 #Mult array for canal leakage pre 1935
+OPEN/CLOSE arrays/CANRHP35.arm 1.0 (8f10.7) -1
+RCHcnl35M                  #Mult array for canal leakage 1935-55
+OPEN/CLOSE arrays/CANRCH35.arm 1.0 (8f10.7) -1    
+RCHcnl55M                  #Mult array for canal leakage 1955-75
+OPEN/CLOSE arrays/CANRCH55.arm 1.0 (8f10.7) -1    
+RCHcnl75M                  #Mult array for canal leakage 1975-92
+OPEN/CLOSE arrays/CANRCH75.arm 1.0 (8f10.7) -1
+RCHcnl92M                  #Mult array for canal leakage 1992-current
+OPEN/CLOSE arrays/CANRCH92.arm 1.0 (8f10.7) -1
+RCHsep70M                  #Mult array for 1970 septic tank recharge
+OPEN/CLOSE arrays/SEPRCH70.arm 1.0 (8f10.7) -1
+RCHsep80M                  #Mult array for 1980 septic tank recharge
+OPEN/CLOSE arrays/SEPRCH80.arm 1.0 (8f10.7) -1
+RCHsep90M                  #Mult array for 1980 septic tank recharge
+OPEN/CLOSE arrays/SEPRCH90.arm 1.0 (8f10.7) -1
+ETrg35M                    #Mult array for max ET Rio Grande (propotion of cell area)
+OPEN/CLOSE arrays/ET35.arm 1.0 (12f6.3) -1
+ETrg55M                    #Mult array for max ET Rio Grande (propotion of cell area)
+OPEN/CLOSE arrays/ET55.arm 1.0 (12f6.3) -1
+ETrg75M                    #Mult array for max ET Rio Grande (propotion of cell area)
+OPEN/CLOSE arrays/ET75.arm 1.0 (12f6.3) -1
+ETrg92M                    #Mult array for max ET Rio Grande (propotion of cell area)
+OPEN/CLOSE arrays/ET92.arm 1.0 (12f6.3) -1
+ETjem55M                   #Mult array for max ET Jemez R (propotion of cell area)
+OPEN/CLOSE arrays/JEM55ET.arm 1.0 (12f6.3) -1
+ETjem75M                   #Mult array for max ET Jemez R (propotion of cell area)
+OPEN/CLOSE arrays/JEM75ET.arm 1.0 (12f6.3) -1
+RCHirr35M                  #Mult array for 1935 irrigation return flow 
+OPEN/CLOSE arrays/IRRIG35.arm 1.0 (8F10.7) -1
+RCHirr55M                  #Mult array for 1955 irrigation return flow
+OPEN/CLOSE arrays/IRRIG55.arm 1.0 (8F10.7) -1
+RCHirr75M                  #Mult array for 1975 irrigation return flow
+OPEN/CLOSE arrays/IRRIG75.arm 1.0 (8F10.7) -1
+RCHirr92M                  #Mult array for 1992 irrigation return flow
+OPEN/CLOSE arrays/IRRIG92.arm 1.0 (8F10.7) -1
+RCHjirr55M                 #Mult array for 1955 irrigation return along Jemez River
+OPEN/CLOSE arrays/JEMIRR55.arm 1.0 (8F10.7) -1
+RCHjirr75M                 #Mult array for 1975 irrigation return along Jemez River
+OPEN/CLOSE arrays/JEMIRR75.arm 1.0 (8F10.7) -1
+RCHjcanM                   #Mult array for canal leakage along Jemez River
+OPEN/CLOSE arrays/CANJEM.arm 1.0 (8F10.7) -1
+RCHzresM                   #Mult array for leakage from Zia Reservoir, near Jemez River
+OPEN/CLOSE arrays/ZIARES.arm 1.0 (8F10.7) -1
+KNEAST_M                   # reduce Ks in NE part of SD Bsn
+OPEN/CLOSE arrays/NEMULT.arm 1.0 (10f8.5)  -1
+KNEAST5_M                   # reduce Ks in NE part of SD Bsn
+OPEN/CLOSE arrays/NEMULT5.arm 1.0 (10f8.5)  -1

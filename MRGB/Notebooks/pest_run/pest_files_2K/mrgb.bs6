@@ -1,0 +1,22 @@
+# Basic package input for MODFLOW2000 (BAS6) -- not compatible with earlier versions of MODFLOW
+#  ** the next line needs to be blank if no options are used
+
+OPEN/CLOSE arrays/ZONE1.arz      1 (40i4)  4      # IBOUND layer1
+OPEN/CLOSE arrays/ZONE2.arz      1 (40i4)  4      # IBOUND layer2
+OPEN/CLOSE arrays/ZONE3.arz      1 (40i4)  4      # IBOUND layer3
+OPEN/CLOSE arrays/ZONE4.arz      1 (40i4)  4      # IBOUND layer4
+OPEN/CLOSE arrays/ZONE5.arz      1 (40i4)  4      # IBOUND layer5
+OPEN/CLOSE arrays/ZONE6.arz      1 (40i4)  4      # IBOUND layer6
+OPEN/CLOSE arrays/ZONE7.arz      1 (40i4)  4      # IBOUND layer7
+OPEN/CLOSE arrays/ZONE8.arz      1 (40i4)  4      # IBOUND layer8
+OPEN/CLOSE arrays/ZONE9.arz      1 (40i4)  4      # IBOUND layer9
+     -999.                                          # HNOFLO
+OPEN/CLOSE arrays/H1.arr  1. (8f10.1)  3  # STRT heads layer1 (heads from steady state simulation)
+OPEN/CLOSE arrays/H2.arr  1. (8f10.1) -1  # STRT heads layer2
+OPEN/CLOSE arrays/H3.arr  1. (8f10.1) -1  # STRT heads layer3
+OPEN/CLOSE arrays/H4.arr  1. (8f10.1) -1  # STRT heads layer4
+OPEN/CLOSE arrays/H5.arr  1. (8f10.1) -1  # STRT heads layer5
+OPEN/CLOSE arrays/H6.arr  1. (8f10.1) -1  # STRT heads layer6
+OPEN/CLOSE arrays/H7.arr  1. (8f10.1) -1  # STRT heads layer7
+OPEN/CLOSE arrays/H8.arr  1. (8f10.1) -1  # STRT heads layer8
+OPEN/CLOSE arrays/H9.arr  1. (8f10.1) -1  # STRT heads layer9

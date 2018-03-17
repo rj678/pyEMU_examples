@@ -1,0 +1,62 @@
+This file is README.files
+
+This directory contains the input files for the model described in WRIR 02-4200. 
+The majority of files correspond to MODFLOW-2000 simulation packages as indicated
+by the file name extension.  Unless noted otherwise in the listing below, refer to 
+Harbaugh and others (2000) for input instructions for the various packages. 
+
+The subdirectory "arrays" contains array files that are read in the various 
+MODFLOW-2000 packages as defined in the package input files.
+ 
+The file names and a brief description of the files are listed below:
+
+modflow.bf   -- MODFLOW batch file, contains the name of the MODFLOW name file
+mrgb.bs6     -- Basic package input file
+mrgb.dis     -- Discretization input file
+mrgb.drn     -- Drain package input file
+mrgb.ets     -- Evapotranspiration segments package input file (Banta, 2000)
+mrgb.glb     -- Global output file
+mrgb.hb6     -- Horizontal flow barrier package input file
+mrgb.hob     -- Head observation package input file (Hill and others, 2000)
+mrgb.lpf     -- Layer property flow package input file
+mrgb.lst     -- List output file
+mrgb.obs     -- Observation package input file (Hill and others, 2000)
+mrgb.oc      -- Output control input file
+mrgb.pcg     -- Preconditioned conjugate-gradient package input file (Hill, 1990; 
+                 Harbaugh and others, 2000)
+mrgb.rch     -- Recharge package input file
+mrgb.riv     -- River package input file
+mrgb.rob     -- River observation package input file (Hill and others, 2000)
+mrgb.wel     -- Well package input file
+mults        -- Multiplication array input file
+name.nam     -- MODFLOW name file
+run_mf2k.bat -- MS DOS batch file to run the MODFLOW-2000 executable file
+zones        -- Zone array input file
+
+The following observation files are used to obtain specific information
+from the model simulation:
+
+hyd.hob      -- Used for generating the head data shown in the hydrographs of 
+                fig. 17 in WRI 02-4200. Replaces mrgb.hob in the name.nam file.
+piez.hob     -- Used for multiple observations of heads from piezometers.
+                Most recent observation for each piezometer is used in table 2 of
+                WRI 02-4200.  Replaces mrgb.hob in the name.nam file.
+divide.rob   -- Used for dividing components of river package for table 3 of
+                WRI 02-4200.  Replaces mrgb.rob in the name.nam file.
+
+References:
+
+Banta, E.R., 2000, MODFLOW-2000, the U.S. Geological Survey modular ground-water 
+   model - Documentation of packages for simulating evapotranspiration with a 
+   segmented function (ETS1) and drains with return flow (DRT1): U.S. Geological 
+   Survey Open-File Report 00-466, 127 p.
+
+Harbaugh, A.W., Banta, E.R., Hill, M.C., and McDonald, M.G., 2000, MODFLOW-2000, 
+   the U.S. Geological Survey modular ground-water model - User guide to 
+   modularization concepts and the ground-water flow process: U.S. Geological 
+   Survey Open-File Report 00-92, 121 p.
+
+Hill, M.C., Banta, E.R., Harbaugh, A.W., and Andernam, E.R., 2000, MODFLOW-2000, 
+   the U.S. Geological Survey modular ground-water model - User guide to the 
+   observation, sensitivity, and parameter-estimation processes and three post-
+   processing programs: U.S. Geological Survey Open-File Report 00-184, 209 p.
