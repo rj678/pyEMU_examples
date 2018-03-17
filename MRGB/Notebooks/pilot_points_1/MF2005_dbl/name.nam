@@ -1,0 +1,21 @@
+# MODFLOW-2005 Name File
+LIST        11 name.lst
+DIS          13 mrgb.dis
+BAS6         14 mrgb.bs6
+LPF          15 mrgb.lpf
+HFB6         16 mrgb.hb6
+ETS          17 mrgb.ets
+RCH          18 mrgb.rch
+WEL          19 ./new_well_files/mrgb.wel
+RIV          20 mrgb.riv
+DRN          21 mrgb.drn
+OC           22 mrgb.oc
+#PVAL         23 pval.par
+PCG          30 mrgb.pcg
+ZONE         31 zones
+MULT         32 mults
+DATA         33 sim._os
+HOB          34 name.obh
+RVOB         35 name.obr
+MNW2         40 ./new_well_files/mni_and_uf_mcada_and_barroll.mnw2
+DATA(BINARY) 50 cbcbud      /*cell by cell budget output--not used in final run
