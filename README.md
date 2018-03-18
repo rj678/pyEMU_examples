@@ -6,7 +6,7 @@ The model used is the groundwater model developed for the Middle Rio Grande Basi
 
 https://pubs.er.usgs.gov/publication/wri20024200
 
-The workflows include 4 main categories:
+The workflows include 4 main categories (and are based on the workflows in the pyEMU repo):
 
 1). pest_run: This is a regular PEST run, which seeks to minimize the measurement objective function.
 
