@@ -6,6 +6,10 @@ The model used is the groundwater model developed for the Middle Rio Grande Basi
 
 https://pubs.er.usgs.gov/publication/wri20024200
 
+A program to convert MF-2000 files to MF-2005 is available at:
+
+https://water.usgs.gov/nrp/gwsoftware/mf2ktomf05uc/mf2ktomf05uc.html
+
 The workflows include 4 main categories (and are based on the workflows in the pyEMU repo):
 
 1). pest_run: This is a regular PEST run, which seeks to minimize the measurement objective function.
