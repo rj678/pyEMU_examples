@@ -1,0 +1,97 @@
+
+YAMR Master listening on socket:0.0.0.0:4004 (IPv4)
+running model 126 times
+
+    waiting for slaves to appear...
+
+
+02/12/18 16:01:32->new connection from: localhost:58172
+02/12/18 16:01:32->initializing new slave connection from: localhost:58172; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_0
+02/12/18 16:01:34->new slave ready: localhost:58172
+02/12/18 16:01:34->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_0  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:01:34->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_0 - terminating slave
+02/12/18 16:01:34->closed connection to slave: localhost:58172; number of slaves: 0
+02/12/18 16:01:44->new connection from: localhost:58198
+02/12/18 16:01:44->initializing new slave connection from: localhost:58198; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_1
+02/12/18 16:01:46->new slave ready: localhost:58198
+02/12/18 16:01:46->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_1  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:01:46->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_1 - terminating slave
+02/12/18 16:01:46->closed connection to slave: localhost:58198; number of slaves: 0
+02/12/18 16:01:54->new connection from: localhost:58208
+02/12/18 16:01:54->initializing new slave connection from: localhost:58208; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_2
+02/12/18 16:01:56->new slave ready: localhost:58208
+02/12/18 16:01:56->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_2  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:01:56->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_2 - terminating slave
+02/12/18 16:01:56->closed connection to slave: localhost:58208; number of slaves: 0
+02/12/18 16:02:02->new connection from: localhost:58213
+02/12/18 16:02:02->initializing new slave connection from: localhost:58213; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_3
+02/12/18 16:02:03->new slave ready: localhost:58213
+02/12/18 16:02:03->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_3  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:03->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_3 - terminating slave
+02/12/18 16:02:03->closed connection to slave: localhost:58213; number of slaves: 0
+02/12/18 16:02:11->new connection from: localhost:58214
+02/12/18 16:02:11->initializing new slave connection from: localhost:58214; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_4
+02/12/18 16:02:12->new slave ready: localhost:58214
+02/12/18 16:02:12->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_4  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:12->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_4 - terminating slave
+02/12/18 16:02:12->closed connection to slave: localhost:58214; number of slaves: 0
+02/12/18 16:02:18->new connection from: localhost:58224
+02/12/18 16:02:18->initializing new slave connection from: localhost:58224; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_5
+02/12/18 16:02:19->new slave ready: localhost:58224
+02/12/18 16:02:19->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_5  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:19->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_5 - terminating slave
+02/12/18 16:02:19->closed connection to slave: localhost:58224; number of slaves: 0
+02/12/18 16:02:24->new connection from: localhost:58225
+02/12/18 16:02:24->initializing new slave connection from: localhost:58225; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_6
+02/12/18 16:02:26->new slave ready: localhost:58225
+02/12/18 16:02:26->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_6  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:26->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_6 - terminating slave
+02/12/18 16:02:26->closed connection to slave: localhost:58225; number of slaves: 0
+02/12/18 16:02:31->new connection from: localhost:58229
+02/12/18 16:02:31->initializing new slave connection from: localhost:58229; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_7
+02/12/18 16:02:33->new slave ready: localhost:58229
+02/12/18 16:02:33->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_7  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:33->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_7 - terminating slave
+02/12/18 16:02:33->closed connection to slave: localhost:58229; number of slaves: 0
+02/12/18 16:02:38->new connection from: localhost:58238
+02/12/18 16:02:38->initializing new slave connection from: localhost:58238; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_8
+02/12/18 16:02:40->new slave ready: localhost:58238
+02/12/18 16:02:40->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_8  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:40->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_8 - terminating slave
+02/12/18 16:02:40->closed connection to slave: localhost:58238; number of slaves: 0
+02/12/18 16:02:46->new connection from: localhost:58240
+02/12/18 16:02:46->initializing new slave connection from: localhost:58240; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_9
+02/12/18 16:02:47->new slave ready: localhost:58240
+02/12/18 16:02:47->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_9  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:47->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_9 - terminating slave
+02/12/18 16:02:47->closed connection to slave: localhost:58240; number of slaves: 0
+02/12/18 16:02:52->new connection from: localhost:58242
+02/12/18 16:02:52->initializing new slave connection from: localhost:58242; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_10
+02/12/18 16:02:54->new slave ready: localhost:58242
+02/12/18 16:02:54->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_10  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:02:54->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_10 - terminating slave
+02/12/18 16:02:54->closed connection to slave: localhost:58242; number of slaves: 0
+02/12/18 16:03:00->new connection from: localhost:58252
+02/12/18 16:03:00->initializing new slave connection from: localhost:58252; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_11
+02/12/18 16:03:02->new slave ready: localhost:58252
+02/12/18 16:03:02->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_11  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:03:02->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_11 - terminating slave
+02/12/18 16:03:02->closed connection to slave: localhost:58252; number of slaves: 0
+02/12/18 16:03:10->new connection from: localhost:58258
+02/12/18 16:03:10->initializing new slave connection from: localhost:58258; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_12
+02/12/18 16:03:12->new slave ready: localhost:58258
+02/12/18 16:03:12->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_12  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:03:12->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_12 - terminating slave
+02/12/18 16:03:12->closed connection to slave: localhost:58258; number of slaves: 0
+02/12/18 16:03:18->new connection from: localhost:58261
+02/12/18 16:03:18->initializing new slave connection from: localhost:58261; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_13
+02/12/18 16:03:20->new slave ready: localhost:58261
+02/12/18 16:03:20->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_13  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:03:20->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_13 - terminating slave
+02/12/18 16:03:20->closed connection to slave: localhost:58261; number of slaves: 0
+02/12/18 16:03:26->new connection from: localhost:58262
+02/12/18 16:03:26->initializing new slave connection from: localhost:58262; number of slaves: 1; working dir: /Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_14
+02/12/18 16:03:28->new slave ready: localhost:58262
+02/12/18 16:03:28->Sending run 0 to: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_14  (group id = 2, run id = 0, concurrent runs = 1)
+02/12/18 16:03:28->received corrupt message from slave: localhost$/Volumes/A_2TB/NMWSC/RSJ/Models/FloPy_MRG_MF_2005/Notebooks/pilot_points_1/slave_14 - terminating slave
+02/12/18 16:03:28->closed connection to slave: localhost:58262; number of slaves: 0
