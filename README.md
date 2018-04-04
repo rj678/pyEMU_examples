@@ -1,6 +1,6 @@
 # Calibration Workflows
 
-This repo contains the calibration workflows developed to be used by the USGS New Mexico Water Science Center (NM-WSC), Hydrogeology and Geochemisty modeling group.
+This repo contains the calibration workflows developed by me, for the purpose of hydrological modeling.
 
 The model used is the groundwater model developed for the Middle Rio Grande Basin (MRGB), published under the title "SIMULATION OF GROUND-WATER FLOW IN THE MIDDLE RIO GRANDE BASIN BETWEEN COCHITI AND SAN ACACIA, NEW MEXICO", publicly available at:
 
@@ -33,7 +33,7 @@ Groundwater Modeling software: FloPy, MODFLOW-2000/2005/NWT
 
 ### Disclaimer
 
-While the workflows have been developed for USGS NM-WSC, and I have received input and feedback from USGS hydrologists, the workflows have been developed independently by me, and have not been approved for publication by USGS. Any errors are entirely my responsibility. I'm still in the process of completing the workflows.
+ The workflows have been developed independently by me, and have not been approved for publication by USGS. Any errors are entirely my responsibility. I'm still in the process of completing the workflows.
 
 
 ### Contact
