@@ -4,7 +4,7 @@
 #              WELdom70--1970 estimated domestic well pumpage
 #              WELdom80--1980 estimated domestic well pumpage
 #              WELdom90--1990 estimated domestic well pumpage
-# Updates by A. Ritchie
+# Updates by 
 # Moved underflow to MNW2 file
 PARAMETER          3     10378     "PARAMETER" NPWEL MXL
       3733        50               MXACTW (need to adjust) IWELCB

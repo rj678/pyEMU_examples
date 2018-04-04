@@ -2,7 +2,7 @@
 # MNW2 data with WA and Kirtland pumping updated through SP-79 (summer 2013)
 # file updated on 03/13/2014 using data from d:/mrgmodel/pumping/pumping_1900-2013.xlsx and
 # bash shell d:/mrgmodel/pumping/new_mnw2.sh 
-# Updates by A. Ritchie
+# Updates by
 # Replaced underflow wells with locations and rates used in McAda and Barroll (2002)
 # Removed ELENANEW_SP52-79 well (had pumping in SP53 and same cell and layers as ELENA_NEW_SP52-79, so moved pumping to this well)
 # Deleted layer 6 from KIRTLAND_15_SP48-79 and KIRTLAND_16_SP48-79, as McAda and Barroll (2002) only included layers 4 and 5
